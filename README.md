@@ -19,6 +19,6 @@ Assignment for a social media application. Built using React-JS, HTML and CSS. T
 - Run this command in terminal 'npm install react-icons'
 - Run this command in terminal 'npm install -g http-server'
 - Go into './src/images' and run 'http-server ./'
-- This should display a path which needs to be inserte at line 27 of ./src/App.js and line 192 of ./src/App.css
+- This should display a path which needs to be inserte at line 27 of ./src/App.js and line 195 of ./src/App.css
 - Inside the folder in terminal 'npm start'
 - Visit your localhost port and see the project page
