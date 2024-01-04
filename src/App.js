@@ -114,7 +114,17 @@ const App = () => {
 
       <div className="interestGroups">
         <div className="specificGroup">
-          <div className="groupImage"></div>
+          <div className="groupImage">
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img3.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+          </div>
           <div className="groupInfo">
             <div className="matchPercentage">Behavioral (27%)</div>
             <div className="population">
@@ -134,7 +144,17 @@ const App = () => {
           </div>
         </div>
         <div className="specificGroup">
-          <div className="groupImage"></div>
+          <div className="groupImage">
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img3.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+          </div>
           <div className="groupInfo">
             <div className="matchPercentage">Interests (6%)</div>
             <div className="population">
@@ -154,7 +174,17 @@ const App = () => {
           </div>
         </div>
         <div className="specificGroup">        
-          <div className="groupImage"></div>
+          <div className="groupImage">
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img3.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+          </div>
           <div className="groupInfo">
             <div className="matchPercentage">Values (81%)</div>
             <div className="population">
@@ -174,7 +204,17 @@ const App = () => {
           </div>
         </div>
         <div className="specificGroup">
-          <div className="groupImage"></div>
+          <div className="groupImage">
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img3.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+          </div>
           <div className="groupInfo">
             <div className="matchPercentage">Extroversion (0.98%)</div>
             <div className="population">
@@ -190,7 +230,17 @@ const App = () => {
           </div>
         </div>
         <div className="specificGroup">  
-          <div className="groupImage"></div>
+          <div className="groupImage">
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img3.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img2.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><div className="groupPFPImageText">J</div></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img4.png" alt="PFP"/></div>
+            <div className="groupPFPCircle"><img className="groupPFPImage" src="http://192.168.29.31:8080/pfps/img1.png" alt="PFP"/></div>
+          </div>
           <div className="groupInfo">
             <div className="matchPercentage">Extroversion (0.98%)</div>
             <div className="population">
