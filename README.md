@@ -2,7 +2,7 @@
 Assignment for a social media application. Built using React-JS, HTML and CSS. The assignment my understanding of frontend-development using React-JS for a web application to be used for social matching. I have attached the desired figma board and my rendition of it which is responsive for different screens and an addition of interests button as desired by the team. 
 
 # Target Design 
-![image](https://github.com/namritaansh02/chans-assignment/assets/85171632/de4531d6-91de-4031-a84c-73b057e1e5c8)
+<img src="https://github.com/namritaansh02/chans-assignment/assets/85171632/de4531d6-91de-4031-a84c-73b057e1e5c8" width="100" height="300">
 
 # My Rendition
 ![image](https://github.com/namritaansh02/chans-assignment/assets/85171632/e898791b-5de3-4b16-af38-be182214824c)
